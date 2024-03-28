@@ -1,0 +1,8 @@
+kodun genelinde tüm gereksinimleri kullandım
+
+index.css dosyasında nav linklerini mobil cihazlarda 
+üst üste sıralamak için responsive design kullandım
+
+semantic tagleri tüm sayfalarda kullandım
+
+https://github.com/Selcuk05/230229036_hw1

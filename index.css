@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+    background-color: darkgray;
+}
+
+nav>a {
+    margin-left: 10px;
+    padding: 5px 15px 5px 15px;
+    text-decoration: none;
+    background-color:lightblue;
+    color: black;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+header {
+    margin-left: 10px;
+}
+
+section
+{
+    background-color:lightblue;
+    border-radius: 10px;
+    width: 100%;
+}
+
+table {
+    text-align: center;
+    border-collapse: separate;
+    border-spacing: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.portfolioCard {
+    width: 25%;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.portfolioContent {
+    display: block;
+}
+  
+th {
+    margin: 10px;
+    padding: 25px;
+}
+
+td {
+    margin: 50px;
+    padding: 29px;
+}
+
+div>p{
+    display: block;
+}
+
+footer {
+    display: block; 
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 13px;
+}
+
+@media only screen and (max-width: 700px) {
+
+    nav>a {
+        display: block;
+        width: 50%;
+        margin-bottom: 5px;
+    }
+ 
+ }
+
+.mainLink{
+    margin-left: 10px;
+    padding: 5px 15px 5px 15px;
+    text-decoration: underline;
+    color: black;
+}
+
+.portfolioImg {
+    width: 100%;
+}
